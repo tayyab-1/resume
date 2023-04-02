@@ -12,19 +12,13 @@
 
   <div class="skillset">
 
-    {% for skill in skills.toolset %}
     <div class="item">
-
-      <!-- <h3 class="level-title">{{ skill.name }}</h3> -->
-      <p>{{ skill.name }}</p>{% unless forloop.last %}, {% endunless %}
-
-      <!-- <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div>//level-bar -->
-
+      <p>
+      {% for skill in skills.toolset %}
+      {{ skill.name }}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+      .</p>
     </div><!--//item-->
-    {% endfor %}
 
   </div>
 
