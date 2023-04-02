@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -64,7 +64,7 @@ experiences:
         time: Nov, 2022 - Present
         company: Phaedra Solutions, Lahore, Pakistan.
         details: |
-          As a MEAN stack developer, I designed and maintained scalable web applications using the latest web technologies such as MongoDB, Express.js, Angular, and Node.js. I collaborated with cross-functional teams and ensured projects were delivered on time and to high-quality standards. I conducted code reviews and implemented the latest best practices to deliver efficient and user-friendly applications.
+          As a MEAN stack developer, I design and maintain scalable web applications using the latest web technologies such as MongoDB, Express.js, Angular, and Node.js. I collaborate with cross-functional teams and ensure projects are delivered on time and to high-quality standards. I conduct code reviews and implement the latest best practices to deliver efficient and user-friendly applications.
       - role: Intern - IT
         time: Jan, 2021 - July, 2021
         company: LUMS, Lahore, Pakistan
