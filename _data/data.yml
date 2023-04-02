@@ -134,18 +134,14 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Tools
 
     toolset:
       - name: Javascript
-        level: 98%
 
       - name: AngularJs
-        level: 98%
 
       - name: NestJs
-        level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
 
