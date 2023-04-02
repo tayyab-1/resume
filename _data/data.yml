@@ -85,11 +85,11 @@ projects:
         tagline: "OnTrack is an integrated event technology ecosystem that provides event organizers with full control over their operations and critical event data. The system combines powerful technologies and customizable features for on-site and off-site operational efficiency."
 
       - title: PetsWala
-        link: "https://petswala.site/"
+        link: False
         tagline: "A responsive website (a course project) that offers various pet-related services, such as the ability to purchase pet products, schedule appointments with veterinarians, and connect with rescue services."
 
       - title: CarBar
-        link: " "
+        link: False
         tagline: "An online platform (a course project) for the commerce of vehicles."
 
 # oss:
