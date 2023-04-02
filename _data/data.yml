@@ -147,6 +147,8 @@ skills:
       - name: ReactJs
       - name: Git
       - name: Github
+      - name: Postman
+      - name: Babel Edit
       - name: Django
       - name: Python
       - name: C++
