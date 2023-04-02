@@ -12,10 +12,11 @@
 
   <div class="skillset">
 
-    {% for [i, skill] in skills.toolset %}
+    {% for skill in skills.toolset %}
     <div class="item">
 
-      <p class="level-title">{{ skill.name }}${i!= skills.toolset.length? ', ': ''}</p>
+      <!-- <h3 class="level-title">{{ skill.name }}</h3> -->
+      <p class="level-title">{{ skill.name }}</p>{% if not loop.last %}, {% endif %}
 
       <!-- <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
