@@ -89,7 +89,7 @@ projects:
         tagline: "A responsive website (a course project) that offers various pet-related services, such as the ability to purchase pet products, schedule appointments with veterinarians, and connect with rescue services."
 
       - title: CarBar
-        link: "#hook"
+        link: " "
         tagline: "An online platform (a course project) for the commerce of vehicles."
 
 # oss:
