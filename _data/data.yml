@@ -138,10 +138,24 @@ skills:
 
     toolset:
       - name: Javascript
-
+      - name: Typescript
+      - name: NodeJs
       - name: AngularJs
-
       - name: NestJs
-
-      - name: HTML5 & CSS
+      - name: ExpressJs
+      - name: MongoDB
+      - name: ReactJs
+      - name: Git
+      - name: Github
+      - name: Django
+      - name: Python
+      - name: C++
+      - name: HTML
+      - name: CSS
+      - name: Bootstrap
+      - name: Figma
+      - name: Data structures
+      - name: Algorithms
+      - name: Object Oriented Programming
+      - name: Agile Development Methodology
 
